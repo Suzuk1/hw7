@@ -1,4 +1,4 @@
-application: random-python-othello
+application: gest-e
 version: v1
 runtime: python27
 api_version: 1
